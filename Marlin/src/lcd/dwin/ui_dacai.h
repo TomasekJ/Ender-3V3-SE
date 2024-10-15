@@ -2,7 +2,7 @@
 #define UI_DACAI_H
 
 #include "string.h"
-#include <arduino.h>
+#include <Arduino.h>
 
 #include "../../inc/MarlinConfig.h"
 #include "../../module/temperature.h"
